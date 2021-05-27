@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/air-conditioner/static/css/main.809e7ca2.chunk.css",
+    "main.js": "/air-conditioner/static/js/main.9691f466.chunk.js",
+    "main.js.map": "/air-conditioner/static/js/main.9691f466.chunk.js.map",
+    "runtime-main.js": "/air-conditioner/static/js/runtime-main.ea7d0f87.js",
+    "runtime-main.js.map": "/air-conditioner/static/js/runtime-main.ea7d0f87.js.map",
+    "static/js/2.79161e83.chunk.js": "/air-conditioner/static/js/2.79161e83.chunk.js",
+    "static/js/2.79161e83.chunk.js.map": "/air-conditioner/static/js/2.79161e83.chunk.js.map",
+    "static/js/3.e6d773a4.chunk.js": "/air-conditioner/static/js/3.e6d773a4.chunk.js",
+    "static/js/3.e6d773a4.chunk.js.map": "/air-conditioner/static/js/3.e6d773a4.chunk.js.map",
+    "index.html": "/air-conditioner/index.html",
+    "service-worker.js": "/air-conditioner/service-worker.js",
+    "service-worker.js.map": "/air-conditioner/service-worker.js.map",
+    "static/css/main.809e7ca2.chunk.css.map": "/air-conditioner/static/css/main.809e7ca2.chunk.css.map",
+    "static/js/2.79161e83.chunk.js.LICENSE.txt": "/air-conditioner/static/js/2.79161e83.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/air-conditioner/static/media/digital-7-mono.ae951a18.ttf",
+    "static/media/logo.5fb28574.svg": "/air-conditioner/static/media/logo.5fb28574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea7d0f87.js",
+    "static/js/2.79161e83.chunk.js",
+    "static/css/main.809e7ca2.chunk.css",
+    "static/js/main.9691f466.chunk.js"
+  ]
+}
