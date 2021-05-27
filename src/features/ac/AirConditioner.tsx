@@ -2,6 +2,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Box, Grid, Typography, Fade } from "@material-ui/core";
 import logo from "../../logo.svg";
+import ximalayaLogo from "../../assets/ximalaya-logo.png";
 
 import * as pkg from "../../../package.json";
 
@@ -258,7 +259,7 @@ function EnergySavingLabel() {
           </span>
           <img
             className="ximalaya-logo"
-            src="/images/ximalaya-logo.png"
+            src={ximalayaLogo}
             alt="喜马拉雅"
           />
           <span className="energy-saving-label_description">
